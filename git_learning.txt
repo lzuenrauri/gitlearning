@@ -1,4 +1,5 @@
 Git is a distributed version control system.
-I am  learning git specificially now.
+Git is free software distributed under the GPL.
 
+I am learning git specificially now.
 I must overcome this tool which has strong relation to my profession!...
