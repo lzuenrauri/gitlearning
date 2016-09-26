@@ -1,0 +1,4 @@
+Git is a version control system.
+I am  learning git specificially now.
+
+I must overcome this tool which has strong relation to my profession!...
