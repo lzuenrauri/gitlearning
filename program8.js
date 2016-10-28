@@ -1,7 +1,5 @@
 var http = require('http')
 
-console.log(process.argv[2])
-
 http.get(process.argv[2], function (res) {
 	var data = ''
 	res.setEncoding('utf8')
